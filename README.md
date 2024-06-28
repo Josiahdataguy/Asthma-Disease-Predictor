@@ -23,14 +23,7 @@ The input data excludes the "Diagnosis" column, which serves as the output varia
 
 Several machine learning models were employed to train and evaluate the performance of the asthma disease predictor. These models include:
 
-1.Logistic Regression
-2 Decision Tree
-3.Random Forest
-4.Support Vector Machine (SVM)
-5.k-Nearest Neighbors (k-NN)
-6.Gradient Boosting
-7.XGBoost
-8.Neural Networks
+- Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), k-Nearest Neighbors (k-NN), Gradient Boosting, XGBoost, Artificial Neural Networks
 
 ## Model Evaluation
 
